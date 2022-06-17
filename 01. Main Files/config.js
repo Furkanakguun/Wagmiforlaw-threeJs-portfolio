@@ -279,17 +279,17 @@
 
 
 				// LINE COLOR
-				var option_hero_background_circle_line_color = "#e3af00";
+				var option_hero_background_circle_line_color = "#F6FF06";
 
 
 
 				// BACKGROUND COLOR
-				var option_hero_background_circle_bg_color = "#003300";
+				var option_hero_background_circle_bg_color = "#32F18A";
 
 
 
 				// SCENE OPACITY ( 0 - 1.0 )
-				var option_hero_background_circle_scene_opacity = 0.2;
+				var option_hero_background_circle_scene_opacity = 0.5;
 
 
 

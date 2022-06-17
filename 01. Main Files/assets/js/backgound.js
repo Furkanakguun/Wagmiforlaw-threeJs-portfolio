@@ -302,8 +302,10 @@ function circleBackground() {
 	setup();
 
 	$("#canvas-circle").css("opacity",option_hero_background_circle_scene_opacity);
-	$("body").append('<div class="bg-color" style="background-color:' + option_hero_background_circle_bg_color + '"></div>');
-
+	// $("body").append('<div class="bg-color" style="background-color:' + option_hero_background_circle_bg_color + '"></div>');
+	 $("body").append('<div class="bg-color" style=" background: rgb(5,66,34); background: linear-gradient(42deg, rgba(5,66,34,1) 7%, rgba(47,209,124,1) 34%, rgba(192,254,155,1) 86%, rgba(255,255,250,1) 100%); "></div>');
+	// background: rgb(5,66,34);
+	// background: linear-gradient(42deg, rgba(5,66,34,1) 7%, rgba(47,209,124,1) 34%, rgba(192,254,155,1) 63%, rgba(255,255,250,1) 98%);
 	
 	function setup() {
 		
