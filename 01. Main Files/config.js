@@ -125,7 +125,7 @@
 
 
 		// PROFILE PICTURE URL
-		var config_profile_image_url = "assets/images/person.jpg";
+		var config_profile_image_url = "assets/images/wagmi.JPG";
 
 
 
@@ -142,7 +142,7 @@
 		// "waves" = IMAGE EFFECT WAVES
 		// "custom" = IMAGE EFFECT CUSTOM
 
-		var config_profile_image_effect = "tech";
+		var config_profile_image_effect = "bricks";
 
 
 
